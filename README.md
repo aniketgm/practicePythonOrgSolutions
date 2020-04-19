@@ -8,5 +8,5 @@ So that I can access and update them from anywhere I can. This repo consists of 
 
 That's it Folks!!
 
-Check out the Solutions folder for the solutions. Thanks. Peace out !!
+Check out the [Solutions](Solutions) folder for the solutions. Thanks. Peace out !!
 
